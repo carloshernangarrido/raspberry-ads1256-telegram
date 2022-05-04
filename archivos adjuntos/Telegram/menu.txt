@@ -1,0 +1,5 @@
+﻿Menú de opciones
+Elija la opción que desee:
+A: Bajar archivos /Bajar_archivos
+B: Modificar parámetros /Parametros
+C: Temperatura de la placa /Temp

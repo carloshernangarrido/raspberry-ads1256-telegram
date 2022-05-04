@@ -1,0 +1,19 @@
+1-Canal-0
+2-Frecuencia-30000
+3-Nivel-1.50
+4-Muestras posttrigger-10000
+5-Muestras pretrigger-10000
+6-Cantidad de archivos-1000
+
+#Consideraciones#
+*La suma de la cantidad de muestras pre y post disparo no debe superar las 39000 muestras.
+*La frecuencia de muestreo real solo se aproxima a la seleccionada en el caso de leer un solo canal. Para 8 canales la frecuencia maxima es de aproximadamente 380 muestras/segundo.
+*El nivel maximo admisible en las entradas analogicas no debe superar los 5 V, por lo que el nivel de disparo debe ser menor.
+*Los canales de lectura van del numero 0 al numero 7.
+
+
+
+
+
+
+
